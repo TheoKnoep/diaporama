@@ -23,6 +23,8 @@ async function launch() {
 
 	// init : 
 	display(); 
+	display(); 
+	display(); 
 
 	// handle events :
 	window.addEventListener('scroll', event => {
